@@ -1,4 +1,4 @@
- {
+ [{
             "id": 1,
             "title": "Meet Boss",
             "completed": false
@@ -13,3 +13,4 @@
             "title": "Clean house",
             "completed": false
         }
+]
